@@ -6,7 +6,10 @@
 ### Initial Considerations
 
 - SSL Considerations:
- - Termination Type 
+  - Termination Type 
+  - Passthrough
+  - Edge
+    - Minimal amount as this is managed by the cluster by default
 
 
 ## OCP3 and OCP4 Cluster Health Checks
