@@ -6,7 +6,7 @@
 ### Initial Considerations
 
 * SSL Considerations:
-** Termination Type
+⋅⋅* Termination Type 
 
 
 ## OCP3 and OCP4 Cluster Health Checks
